@@ -53,9 +53,8 @@ input:focus{
 	cursor: blink;
 }
 .fa-search{
-	float: right;
     margin-right: 6px;
-    
+    margin-left: -50px;
     position: relative;
     z-index: 2;
     color: #D5D5D5;
@@ -121,7 +120,7 @@ button:last-child{
 	position: absolute;
 }
 footer{
-	height: 20px;
+	height: 60px;
 	bottom: 0;
 	width: 100%;
 	background-color: #7ACCC8;
